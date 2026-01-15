@@ -1,6 +1,6 @@
 # Hi there, I'm Tony Mamo 👋
 
-🌱 I am a senior software engineer who loves design with over 15 years of professional experience, specializing in architecting scalable, maintainable front end systems paired with easy to use and beautiful looking interfaces.
+🌱 I am a senior software engineer who loves design with almost two decades of professional experience, specializing in architecting scalable, maintainable front end systems paired with easy to use and beautiful looking interfaces.
 
 💼 I currently work at [SimplyAgree](https://simplyagree.com)
 
